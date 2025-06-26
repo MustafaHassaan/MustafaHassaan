@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Welcome to My Profile
 
-<!--
-**MustafaHassaan/MustafaHassaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mostafa Hassan** – Senior .NET Developer & Software Consultant  
+With over 5 years of real-world experience in backend systems, ERP solutions, desktop & web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Technologies
+
+- **Languages**: C#, SQL
+- **Frameworks**: ASP.NET Core, MVC, Entity Framework, ADO.NET
+- **Desktop**: WPF, WinForms
+- **Databases**: SQL Server, MongoDB
+- **Architecture**: Clean Code, SOLID, Microservices
+- **Tools**: Git, GitHub, Visual Studio
+
+---
+
+### 💼 Highlight Projects
+
+- **ALFarha Dresses** – E-commerce system for dress rentals  
+- **ProSales** – Full ERP system for inventory & sales  
+- **PSRequest** – Smart school pickup alert system (Web + API + WPF)  
+- **Olike** – Mobile app + API for solar & rescue services
+
+---
+
+### 🎯 What I Believe In
+
+> "I don't just write code — I design, consult, and build scalable systems that solve real problems."
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](#) | [GitHub](https://github.com/MustafaHassaan)
