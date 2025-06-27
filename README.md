@@ -1,54 +1,46 @@
-# 👋 Welcome to My GitHub
+# 👋 Welcome to My Profile – I'm Mostafa Hassan
 
-I'm **Mostafa Hassan** — Senior .NET Developer & Software Consultant  
-with over **5 years** of hands-on experience in building real-world business applications and API-driven systems.
-
----
-
-## 🧠 About Me
-
-I specialize in developing scalable, secure, and maintainable systems across web and desktop platforms.  
-Whether it's ERP software, school systems, SMS portals, or e-commerce — I design it, build it, and deliver it.
+🚀 Senior .NET Developer & Software Consultant  
+💼 5+ years of building real-world business solutions across Desktop, Web, and API layers.
 
 ---
 
-## 💼 Key Projects
+## 🔧 Tech Stack & Specialties
 
-| Project | Description |
-|--------|-------------|
-| [ALFarhadresses](https://github.com/MustafaHassaan/ALFarhadresses) | Web system for managing wedding & evening dress rentals (ASP.NET Core MVC + SQL Server) |
-| ProSales | Desktop ERP system for sales & inventory (WinForms + ADO.NET) |
-| PSRequest | Smart school pickup system (API + WPF + Web UI) |
-| Olike (IGSWebAPI + Xamarin) | Dubizzle-style mobile system for solar/rescue/gold services |
-| SMS Portal | Distributed system for bulk SMS via USB modem (3 modules connected to single DB) |
+- **Languages:** C#, SQL, VB.NET  
+- **Frameworks:** ASP.NET Core, MVC, WinForms, WPF  
+- **APIs & Integration:** REST APIs, JSON Web Token, ADO.NET, EF Core  
+- **Frontend:** Razor Pages, MAUI (started), Xamarin (legacy)  
+- **Databases:** SQL Server, MySQL, MongoDB  
+- **Architecture:** Clean Code, SOLID, MVVM, Clean Architecture  
+- **Tools:** Git, GitHub, Postman, Visual Studio, PowerShell
 
 ---
 
-## 🔧 Tech Stack
+## 📦 Highlight Projects
 
-- **Languages:** C#, SQL  
-- **Backend:** ASP.NET Core Web API, MVC, ADO.NET, EF Core  
-- **Frontend:** Razor Pages, WPF, WinForms, Xamarin.Forms  
-- **Databases:** SQL Server, MongoDB  
-- **Architecture:** Clean Architecture, MVVM, Layered Systems  
-- **Tools:** Git, GitHub, Visual Studio, Postman
+| Project Name        | Description |
+|---------------------|-------------|
+| **ALFarhadresses** | ASP.NET Core app for wedding/party dress rentals |
+| **ProSales**        | Desktop ERP system (Sales + Inventory) using WinForms |
+| **EasyPOS**         | Lightweight POS system for offline use |
+| **PSRequest**       | Smart school system (Web + API + WPF) to notify students |
+| **MarsaAlloaloah**  | Boat rental desktop system |
+| **WebConstarctors** | ASP.NET Core MVC system for contractor accounting |
+| **Olike (IGS)**     | Dubizzle-style marketplace built with Xamarin + Web API |
+| **Tavo**            | Restaurant & Cafe Management (Clean Arch + Mongo + API + MAUI)
+
+> 🎯 Each project is based on real-world scenarios, built solo, and covers full-stack concerns including business logic, data access, UI/UX, and deployment.
 
 ---
 
 ## 🎯 What I Believe In
 
-> "I don't just write code — I solve real business problems through thoughtful software architecture."
-
-I love working solo or within a team, and I handle end-to-end project responsibilities from analysis to delivery.
+> "Real software solves real business problems. I write code with purpose, and I deliver solutions with scalability and clarity."
 
 ---
 
-## 📬 Let’s Connect
+## 📫 Connect With Me
 
-- [GitHub](https://github.com/MustafaHassaan)
-- [LinkedIn](#) *(Add your LinkedIn here)*
-- **Email:** *mostafahassan0122016@gmail.com*
-
----
-
-Thanks for visiting my profile!
+- 🔗 [GitHub](https://github.com/MustafaHassaan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafahassaan/)
