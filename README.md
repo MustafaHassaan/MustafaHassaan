@@ -1,51 +1,61 @@
-<h1 align="center">👋 Hi, I'm Mostafa Hassaan</h1>
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
 <p align="center">
-  <b>Full‑Stack .NET Developer • Backend API Specialist • React Enthusiast</b><br/>
-  Building robust systems with ASP.NET Core, MongoDB, React, and Clean Architecture.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-C%23-important" />
-  <img src="https://img.shields.io/badge/ReactJS-JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-green" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Arch%20%7C%20Microservices-blue" />
+  <b>I'm Mostafa Hassan – Senior .NET Developer & Software Consultant</b><br/>
+  🚀 With over <b>5 years</b> of hands-on experience building real-world business applications and API-driven systems.
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 About Me
 
-- **Languages:** C#, JavaScript, HTML, CSS  
-- **Backend:** ASP.NET Core Web API, Entity Framework, ADO.NET  
-- **Frontend:** ReactJS, Tailwind CSS  
-- **Databases:** MongoDB, SQL Server  
-- **Architecture:** Clean Architecture, MVVM, Microservices  
-- **Tools:** Git, GitHub, VS Code / Visual Studio, Postman  
+I specialize in developing scalable, secure, and maintainable systems across web and desktop platforms.  
+Whether it's ERP systems, smart schools, SMS portals, or e-commerce platforms — I analyze, build, and deliver.
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Tech Stack & Specialties
 
-### 🔹 [Premier Universal Solutions Hub](https://premieruniversalsolutionshub.com/)
-A professional website for real‑time interpretation services, built entirely from scratch with ReactJS.
-
-### 🔹 **[Example‑Repo-1](https://github.com/.../…)/Tavo‑System**
-ERP backend demo – .NET 8 Web API + MongoDB + MAUI (soon)
-
-### 🔹 **[Example‑Repo‑2/Interpreter‑Platform]**
-Full translator platform with roles for clients, interpreters, admin – React + Supabase + Jitsi
-
-*(Add your real project repos with comments like above)*
+- **Languages:** C#, SQL, VB.NET  
+- **Frameworks:** ASP.NET Core, MVC, WinForms, WPF  
+- **APIs & Integration:** RESTful APIs, JWT, ADO.NET, EF Core  
+- **Frontend:** Razor Pages, MAUI (started), Xamarin (legacy)  
+- **Databases:** SQL Server, MySQL, MongoDB  
+- **Architecture:** Clean Code, SOLID, MVVM, Clean Architecture  
+- **Tools:** Git, GitHub, Postman, Visual Studio, PowerShell  
 
 ---
 
-## 📬 Connect with Me
+## 📦 Highlight Projects
 
-- 🌐 Website: [premieruniversalsolutionshub.com](https://premieruniversalsolutionshub.com/)  
-- 🐙 GitHub: [@MustafaHassaan](https://github.com/MustafaHassaan)  
-- ✉️ Email: mostafahassan.dev@gmail.com  
+| Project                         | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| [ALFarhadresses](https://github.com/MustafaHassaan/ALFarhadresses) | Web system for managing wedding & evening dress rentals (ASP.NET Core MVC + SQL Server) |
+| **ProSales**                   | Desktop ERP for sales & inventory (WinForms + ADO.NET)                     |
+| **EasyPOS**                    | Lightweight POS system for offline use                                     |
+| **PSRequest**                  | Smart school system (API + WPF + Web UI) for student pickup notifications |
+| **SMS Portal**                 | 3-part SMS system for marketing via USB modems (Desktop + Central DB)     |
+| **MarsaAlloaloah**             | Boat rental desktop system                                                 |
+| **WebConstarctors**            | ASP.NET Core MVC app for contractor accounts                               |
+| **Olike (IGSWebAPI + Xamarin)**| Dubizzle-style mobile + web API marketplace                               |
+| **Tavo**                       | Restaurant/Cafe manager (Clean Arch + MongoDB + MAUI)                      |
 
 ---
 
-> 🎯 Passionate about clean code, meaningful architecture, and building systems that make a difference.
+## 🎯 What I Believe In
+
+> "I don't just write code — I solve real business problems through thoughtful software architecture."
+
+I’m passionate about designing clean, scalable systems — whether I’m working solo or with a team.
+
+---
+
+## 📬 Connect With Me
+
+- 🔗 [GitHub](https://github.com/MustafaHassaan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafahassaan/)
+- ✉️ **Email:** mostafahassan0122016@gmail.com
+
+---
+
+*Thanks for visiting my profile!* 🙏
