@@ -1,46 +1,51 @@
-# 👋 Welcome to My Profile – I'm Mostafa Hassan
+<h1 align="center">👋 Hi, I'm Mostafa Hassaan</h1>
 
-🚀 Senior .NET Developer & Software Consultant  
-💼 5+ years of building real-world business solutions across Desktop, Web, and API layers.
+<p align="center">
+  <b>Full‑Stack .NET Developer • Backend API Specialist • React Enthusiast</b><br/>
+  Building robust systems with ASP.NET Core, MongoDB, React, and Clean Architecture.
+</p>
 
----
-
-## 🔧 Tech Stack & Specialties
-
-- **Languages:** C#, SQL, VB.NET  
-- **Frameworks:** ASP.NET Core, MVC, WinForms, WPF  
-- **APIs & Integration:** REST APIs, JSON Web Token, ADO.NET, EF Core  
-- **Frontend:** Razor Pages, MAUI (started), Xamarin (legacy)  
-- **Databases:** SQL Server, MySQL, MongoDB  
-- **Architecture:** Clean Code, SOLID, MVVM, Clean Architecture  
-- **Tools:** Git, GitHub, Postman, Visual Studio, PowerShell
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-C%23-important" />
+  <img src="https://img.shields.io/badge/ReactJS-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-green" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Arch%20%7C%20Microservices-blue" />
+</p>
 
 ---
 
-## 📦 Highlight Projects
+## 🔧 Tech Stack
 
-| Project Name        | Description |
-|---------------------|-------------|
-| **ALFarhadresses** | ASP.NET Core app for wedding/party dress rentals |
-| **ProSales**        | Desktop ERP system (Sales + Inventory) using WinForms |
-| **EasyPOS**         | Lightweight POS system for offline use |
-| **PSRequest**       | Smart school system (Web + API + WPF) to notify students |
-| **MarsaAlloaloah**  | Boat rental desktop system |
-| **WebConstarctors** | ASP.NET Core MVC system for contractor accounting |
-| **Olike (IGS)**     | Dubizzle-style marketplace built with Xamarin + Web API |
-| **Tavo**            | Restaurant & Cafe Management (Clean Arch + Mongo + API + MAUI)
-
-> 🎯 Each project is based on real-world scenarios, built solo, and covers full-stack concerns including business logic, data access, UI/UX, and deployment.
+- **Languages:** C#, JavaScript, HTML, CSS  
+- **Backend:** ASP.NET Core Web API, Entity Framework, ADO.NET  
+- **Frontend:** ReactJS, Tailwind CSS  
+- **Databases:** MongoDB, SQL Server  
+- **Architecture:** Clean Architecture, MVVM, Microservices  
+- **Tools:** Git, GitHub, VS Code / Visual Studio, Postman  
 
 ---
 
-## 🎯 What I Believe In
+## 🚀 Featured Projects
 
-> "Real software solves real business problems. I write code with purpose, and I deliver solutions with scalability and clarity."
+### 🔹 [Premier Universal Solutions Hub](https://premieruniversalsolutionshub.com/)
+A professional website for real‑time interpretation services, built entirely from scratch with ReactJS.
+
+### 🔹 **[Example‑Repo-1](https://github.com/.../…)/Tavo‑System**
+ERP backend demo – .NET 8 Web API + MongoDB + MAUI (soon)
+
+### 🔹 **[Example‑Repo‑2/Interpreter‑Platform]**
+Full translator platform with roles for clients, interpreters, admin – React + Supabase + Jitsi
+
+*(Add your real project repos with comments like above)*
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect with Me
 
-- 🔗 [GitHub](https://github.com/MustafaHassaan)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafahassaan/)
+- 🌐 Website: [premieruniversalsolutionshub.com](https://premieruniversalsolutionshub.com/)  
+- 🐙 GitHub: [@MustafaHassaan](https://github.com/MustafaHassaan)  
+- ✉️ Email: mostafahassan.dev@gmail.com  
+
+---
+
+> 🎯 Passionate about clean code, meaningful architecture, and building systems that make a difference.
