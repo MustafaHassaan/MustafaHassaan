@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome To My GitHub</h1>
 
 <p align="center">
-  <b>I'm Mostafa Hassan – Senior .NET Developer & Software Consultant</b><br/>
+  <b>I'm Mostafa Hassan – .NET Developer </b><br/>
   🚀 With over <b>5 years</b> of hands-on experience building real-world business applications and API-driven systems.
 </p>
 
