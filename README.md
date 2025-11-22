@@ -9,9 +9,10 @@
 
 ## 🧠 About Me
 
-I specialize in developing scalable, secure, and maintainable systems across web and desktop platforms.  
+Backend specialist with 5+ years of hands-on experience in designing, building, and optimizing high-performance business systems. 
+Expert in ASP.NET Core, RESTful Web APIs, MongoDB, and SQL/ADO.NET, with a strong focus on Clean Architecture, scalability, and solving complex backend challenges.
+I specialize in developing scalable, secure, and maintainable systems across web and desktop platforms.
 Whether it's ERP systems, smart schools, SMS portals, or e-commerce platforms — I analyze, build, and deliver.
-
 ---
 
 ## 🔧 Tech Stack & Specialties
