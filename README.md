@@ -58,11 +58,10 @@ My focus is simple: Delivering high-quality, long-term software assets that empo
 *   **Backend:** Implemented an offline-first architecture that ensures data integrity and local synchronization.
 ---
 
-## 🎯 What I Believe In
+## 🎯 My Approach
+> "I don't just write code — I build software that works for your business."
 
-> "I don't just write code — I solve real business problems through thoughtful software architecture."
-
-I’m passionate about designing clean, scalable systems — whether I’m working solo or with a team.
+I believe that true engineering isn't about the latest framework; it's about solving real-world problems with **clean, scalable, and maintainable architecture**. Whether I'm tackling a solo project or working with a team, my goal is to deliver solutions that empower your business to operate more efficiently.
 
 ---
 
