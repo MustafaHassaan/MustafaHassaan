@@ -1,8 +1,8 @@
 <h1 align="center">👋 Welcome To My GitHub</h1>
 
 <p align="center">
-  <b>I'm Mostafa Hassan – .NET Developer </b><br/>
-  🚀 With over <b>5 years</b> of hands-on experience building real-world business applications and API-driven systems.
+  <b>I'm Mostafa Hassaan – Software Engineer & Solutions Architect </b><br/>
+  🚀 I bridge the gap between business goals and technical solutions. I don't just write code; I design, build, and optimize scalable systems that help businesses operate more efficiently. From custom ERPs to high-performance APIs, my focus is on delivering maintainable code that grows with your business.
 </p>
 
 ---
