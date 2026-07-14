@@ -1,9 +1,15 @@
 <h1 align="center">👋 Welcome To My GitHub</h1>
 
-<b align="center">
-  I'm Mostafa Hassaan – Software Engineer & Solutions Architect</b> <br/>
-  🚀 <p>I bridge the gap between business goals and technical solutions. <br/>
-    I don't just write code; I design, build, and optimize scalable systems that help businesses operate more efficiently. <br/>
+<h1 align="center">Mostafa Hassaan</h1>
+<p align="center">
+  <b>Software Engineer & Solutions Architect</b>
+</p>
+
+<p align="center">
+  🚀 I bridge the gap between business goals and technical solutions. 
+  <br/>
+  I don't just write code; I design, build, and optimize scalable systems that help businesses operate more efficiently. 
+  <br/>
   From custom ERPs to high-performance APIs, my focus is on delivering maintainable code that grows with your business.
 </p>
 
