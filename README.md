@@ -17,10 +17,10 @@
 
 ## 🧠 About Me
 
-Backend specialist with 5+ years of hands-on experience in designing, building, and optimizing high-performance business systems. 
-Expert in ASP.NET Core, RESTful Web APIs, MongoDB, and SQL/ADO.NET, with a strong focus on Clean Architecture, scalability, and solving complex backend challenges.
-I specialize in developing scalable, secure, and maintainable systems across web and desktop platforms.
-Whether it's ERP systems, smart schools, SMS portals, or e-commerce platforms — I analyze, build, and deliver.
+I translate complex business challenges into clean, scalable software solutions.
+With a deep focus on Clean Architecture and SOLID principles, I design systems that aren't just built to work—they’re built to last and evolve alongside your business. Whether you need a robust ERP system, a high-performance API, or a custom desktop-to-web solution, I analyze your unique workflows and deliver secure, maintainable architecture tailored to your goals.
+
+My focus is simple: Delivering high-quality, long-term software assets that empower your business to run more efficiently.
 ---
 
 ## 🔧 Tech Stack & Specialties
