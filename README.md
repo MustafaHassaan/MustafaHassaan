@@ -25,12 +25,12 @@ My focus is simple: Delivering high-quality, long-term software assets that empo
 
 ## 🔧 Tech Stack & Specialties
 
-- **Languages:** C#, SQL, VB.NET  
-- **Frameworks:** ASP.NET Core, MVC, WinForms, WPF  
-- **APIs & Integration:** RESTful APIs, JWT, ADO.NET, EF Core  
-- **Frontend:** Razor Pages, MAUI (started), Xamarin (legacy)  
-- **Databases:** SQL Server, MySQL, MongoDB  
-- **Architecture:** Clean Code, SOLID, MVVM, Clean Architecture  
+- **Core Engineering: C#, SQL, TypeScript (Bun/Node.js). 
+- **System Architecture: Designing scalable systems using Clean Architecture, SOLID Principles, and Domain-Driven Design (DDD). 
+- **Backend & APIs: Building high-performance, secure RESTful APIs with ASP.NET Core and modern Bun-based microservices.
+- **Data Solutions: Expert-level database design and optimization for SQL Server, MySQL, and MongoDB.
+- **Full-Stack Development: Modernizing legacy desktop systems (WPF/WinForms) and bridging them with performant web interfaces.
+- **Development Ecosystem: Efficient workflow management using Git/GitHub, Postman, and automated deployment scripts via PowerShell.
 - **Tools:** Git, GitHub, Postman, Visual Studio, PowerShell  
 
 ---
