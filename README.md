@@ -35,20 +35,27 @@ My focus is simple: Delivering high-quality, long-term software assets that empo
 
 ---
 
-## 📦 Highlight Projects
+## 🚀 Featured Solutions
 
-| Project                         | Description                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|
-| [ALFarhadresses](https://github.com/MustafaHassaan/ALFarhadresses) | Web system for managing wedding & evening dress rentals (ASP.NET Core MVC + SQL Server) |
-| **ProSales**                   | Desktop ERP for sales & inventory (WinForms + ADO.NET)                     |
-| **EasyPOS**                    | Lightweight POS system for offline use                                     |
-| **PSRequest**                  | Smart school system (API + WPF + Web UI) for student pickup notifications |
-| **SMS Portal**                 | 3-part SMS system for marketing via USB modems (Desktop + Central DB)     |
-| **MarsaAlloaloah**             | Boat rental desktop system                                                 |
-| **WebConstarctors**            | ASP.NET Core MVC app for contractor accounts                               |
-| **Olike (IGSWebAPI + Xamarin)**| Dubizzle-style mobile + web API marketplace                               |
-| **Tavo**                       | Restaurant/Cafe manager (Clean Arch + MongoDB + MAUI)                      |
+*Each project represents an end-to-end solution, designed and engineered from scratch.*
 
+### 1. [Tavo: Restaurant & Cafe Management]
+> *“Streamlining operations from order to delivery.”*
+*   **UX/UI:** Designed an intuitive dashboard for staff and kitchen display systems.
+*   **Frontend:** Built a seamless, cross-platform interface using **MAUI**.
+*   **Backend:** Developed a highly scalable core using **Clean Architecture** & **MongoDB**.
+
+### 2. [ProSales: Enterprise ERP]
+> *“Transforming inventory & sales data into actionable insights.”*
+*   **UX/UI:** Focused on high-density data visualization and efficient input forms.
+*   **Frontend:** Custom-built interactive desktop UI for fast-paced environments.
+*   **Backend:** Robust business logic using **ADO.NET** for high-performance data operations.
+
+### 3. [EasyPOS: Lightweight Point of Sale]
+> *“Reliable, offline-first transaction management.”*
+*   **UX/UI:** Focused on a "Zero-Learning-Curve" interface to speed up checkout processes.
+*   **Frontend:** Developed a lightweight, responsive desktop interface optimized for offline reliability.
+*   **Backend:** Implemented an offline-first architecture that ensures data integrity and local synchronization.
 ---
 
 ## 🎯 What I Believe In
